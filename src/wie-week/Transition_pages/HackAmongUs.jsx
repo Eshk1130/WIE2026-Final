@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import cafeteriaImg from "./assets/cafeteria.png";
+import cafeteriaImg from "./assets/Cafeteria.png";
 import buttonImg from "./assets/emergency-button.png";
 import meetingImg from "./assets/emergency-meeting.png";
 import { playAlarm, playPress, playBlip, setVolume, getVolume } from "./hackAudio";
