@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import { getRound2Modules } from '../api';
 import './round2.css';
-import electricalBg from './assets/electricalBg.png';
+import electricalBg from './Assets/electricalBg.png';
 import crewBlue from '../round1/assets/crewmate_blue.png';
 import crewRed from '../round1/assets/crewmate_red.png';
 
